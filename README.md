@@ -1,24 +1,16 @@
-# Addlicense
+# addlicense
 
-TODO: Write a gem description
+Easily add licenses to your projects.
 
 ## Installation
-
-Add this line to your application's Gemfile:
-
-    gem 'addlicense'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
 
     $ gem install addlicense
 
 ## Usage
 
-TODO: Write usage instructions here
+Add the MIT license to the current directory.
+
+    $ addlicense mit
 
 ## Contributing
 
