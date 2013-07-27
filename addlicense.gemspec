@@ -8,8 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Addlicense::VERSION
   spec.authors       = ["Zach Latta"]
   spec.email         = ["zchlatta@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{The easiest way to add licenses to your projects.}
+  spec.summary       = %q{addlicense is the easiest way to add licenses to
+                          your projects.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
