@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-# Dependencies are in addlicense.gemspec
+# Dependencies are in licenser.gemspec
 gemspec

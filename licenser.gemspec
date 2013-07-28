@@ -1,15 +1,15 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'addlicense/version'
+require 'licenser/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "addlicense"
+  spec.name          = "licenser"
   spec.version       = Addlicense::VERSION
   spec.authors       = ["Zach Latta"]
   spec.email         = ["zchlatta@gmail.com"]
   spec.description   = %q{The easiest way to add licenses to your projects.}
-  spec.summary       = %q{addlicense is the easiest way to add licenses to
+  spec.summary       = %q{licenser is the easiest way to add licenses to
                           your projects.}
   spec.homepage      = ""
   spec.license       = "MIT"

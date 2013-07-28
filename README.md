@@ -1,16 +1,16 @@
-# addlicense
+# licenser
 
 Easily add licenses to your projects.
 
 ## Installation
 
-    $ gem install addlicense
+    $ gem install licenser
 
 ## Usage
 
 Add the MIT license to the current directory.
 
-    $ addlicense mit
+    $ licenser create mit
 
 ## Contributing
 
